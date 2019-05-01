@@ -49,13 +49,13 @@ The hyperparameters were tuned using GridSearchCV with a cv of 10.
 2. Certain python modules/packages are essential for successfully running the python file.  
 3. You’ll require sklearn, pandas, seaborn, matplotlib and numpy.  
 
-Steps to execute the .py file on Windows:  
+**Steps to execute the .py file on Windows:**  
 1. Open Command prompt: Start menu -> Run and type 'cmd'. This will cause the Windows terminal to open.  
 2. Type 'cd ' followed by project directory path to change current working directory, and hit Enter.  
 3. Run the program using command 'python Prediction.py'  
 Alternatively, you can also use an IDE of your choice to execute the code.  
 
-Steps to execute the .py file on Mac:  
+**Steps to execute the .py file on Mac:**  
 1. Open Terminal by searching it using the search icon at top right or through 'Launchpad->Other->Terminal'  
 2. Type 'cd ' followed by directory path to change current working directory, and hit Enter.  
 3. Run the program using command 'python3 Prediction.py'  
